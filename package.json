@@ -2,7 +2,7 @@
   "name": "landing-base",
   "version": "1.0.0",
   "repository": {
-    "url": "git+https://github.com/rolling-scopes-school/lopatkosaha-JSFE2023Q1.git"
+    "url": "git+https://github.com/LopatkoSaha/shelter.git"
   },
   "description": "",
   "main": "index.js",
